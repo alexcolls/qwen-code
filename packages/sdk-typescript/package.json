@@ -46,7 +46,7 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.25.1",
+    "@modelcontextprotocol/sdk": "^1.26.0",
     "zod": "^3.25.0"
   },
   "devDependencies": {
@@ -55,7 +55,7 @@
     "@typescript-eslint/parser": "^7.13.0",
     "@vitest/coverage-v8": "^1.6.0",
     "dts-bundle-generator": "^9.5.1",
-    "esbuild": "^0.25.12",
+    "esbuild": "^0.25.7",
     "eslint": "^8.57.0",
     "typescript": "^5.4.5",
     "vitest": "^1.6.0"
